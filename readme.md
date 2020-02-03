@@ -18,7 +18,7 @@ Project was wireframed and then layout created in Figma. Most graphics are svg i
 
 ## Installation
 
-Live deployment of the app is in progress. If you would like to download the code and run it on your development environment, you can either fork the repo or click on "Clone or Download" and download as a .zip file. Open the extracted folder in the code editor of your choice.
+To view live, go to https://organizm.netlify.com. If you would like to download the code and run it on your development environment, you can either fork the repo or click on "Clone or Download" and download as a .zip file. Open the extracted folder in the code editor of your choice.
 
 ## Contributors
 I, Kari Minger (aka FuzzyPumpkin) am the sole contributor to this project.
